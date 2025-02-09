@@ -75,3 +75,7 @@
 .premiumFeatureBorder__65c15, .featureBorder__65c15, .featureBorder_fbfab6, .selectionGroup__6b52d{
     display: none;
 }
+
+.numberBadge__2b1f5 {
+    color: var(--text-1);
+}

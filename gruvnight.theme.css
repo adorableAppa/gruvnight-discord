@@ -16,6 +16,10 @@
 @import url("https://fonts.googleapis.com/css?family=Onest");
 
 :root {
+    /*default emoji size*/
+    --custom-live-activity-status-emoji-size: 14px;
+
+    
     --font: 'Onest';
     --corner-text: 'Gruvnight';
     --divider-thickness: 3px;

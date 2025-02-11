@@ -79,3 +79,12 @@
 .numberBadge__2b1f5 {
     color: var(--text-1);
 }
+
+.notice__30f28 {
+    background-color: var(--brand-560);
+}
+
+.lookOutlined__201df5, .colorWhite__201d5, .contents__201d5 {
+    border-color: var(--text-2) !important;
+    color: var(--text-2);
+}

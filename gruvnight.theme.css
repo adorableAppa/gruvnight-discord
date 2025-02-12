@@ -121,8 +121,12 @@
     border-color: var(--text-2) !important;
 }
 
-/* Text Toolbar Color*/
+/* fixes some text and shit */
 .contents__201d5 {
-    color: var(--text-4);
+    color: var(--text-2);
 }
 
+/* Text Toolbar Color*/
+.lottieIcon__5eb9b{
+    color: var(--text-4);
+}
